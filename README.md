@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter,React,Swift**
 
-- 👨‍💻 All of my projects are available at [http://zayar.tech](http://zayar.tech)
+- 👨‍💻 All of my projects are available at [[http://zayar.tech](http://zayar.tech)](https://zayar-tech.web.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@saizayarhtet7](https://medium.com/@saizayarhtet7)
 

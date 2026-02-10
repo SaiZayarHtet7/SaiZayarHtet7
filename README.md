@@ -5,13 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saizayarhtet7" alt="saizayarhtet7" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter,React,Swift**
+- 🧰 Tech Stack I Work With Daily  
+  - ⚙️ Backend: **Express.js**  
+  - 📱 Mobile: **Flutter**  
+  - 🌐 Frontend: **React**
 
-- 👨‍💻 All of my projects are available at [[http://zayar.tech](http://zayar.tech)](https://zayar-tech.web.app/)
+- 👨‍💻 Explore my projects & work: [[http://zayar.tech](http://zayar.tech)](https://zayar-tech.web.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@saizayarhtet7](https://medium.com/@saizayarhtet7)
+- 📝 I share insights and dev experiences on Medium: **https://medium.com/@saizayarhtet7**  
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, scalable app architecture, and clean UI/UX**  
+
+Building performant, maintainable apps from end to end — from API design to pixel-perfect UI.
+
 
 - 📫 How to reach me **saizayarhtet7@gmail.com**
 

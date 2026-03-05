@@ -1,35 +1,85 @@
-<h1 align="center">Hi 👋, I'm Sai Zayar Htet</h1>
-<h3 align="center">A passionate flutter developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:61dafb&height=160&section=header&text=Sai%20Zayar%20Htet&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50" />
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saizayarhtet7&label=Profile%20views&color=0e75b6&style=flat" alt="saizayarhtet7" /> </p>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Flutter+%26+Full-Stack+Developer;Pixel-perfect+UI+craftsman;API+to+App+%E2%80%94+end+to+end;Always+building%2C+always+learning" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saizayarhtet7" alt="saizayarhtet7" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saizayarhtet7&label=Profile%20views&color=61dafb&style=flat" alt="Profile views" />
+</p>
 
-- 🧰 Tech Stack I Work With Daily  
-  - ⚙️ Backend: **Express.js**  
-  - 📱 Mobile: **Flutter**  
-  - 🌐 Frontend: **React**
+> I am a Full-Stack Developer passionate about Flutter, building performant and maintainable apps from end to end — from API design to pixel-perfect UI.
 
-- 👨‍💻 Explore my projects & work: [[http://zayar.tech](http://zayar.tech)](https://zayar-tech.web.app/)
+---
 
-- 📝 I share insights and dev experiences on Medium: **https://medium.com/@saizayarhtet7**  
+<p align="center">
+  <img width="45%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=saizayarhtet7&show_icons=true&theme=react&hide_border=true&count_private=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=saizayarhtet7&theme=react&hide_border=true">
+</p>
 
-- 💬 Ask me about **Flutter, scalable app architecture, and clean UI/UX**  
+<p align="center">
+  <a href="https://github.com/saizayarhtet7">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=saizayarhtet7&exclude=HTML,CSS&theme=react&layout=compact&hide_border=true"
+      alt="saizayarhtet7 :: Top Langs by repo" />
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=saizayarhtet7&exclude=HTML,CSS&theme=react&layout=compact&hide_border=true"
+      alt="saizayarhtet7 :: Top Langs by commit" />
+  </a>
+</p>
 
-Building performant, maintainable apps from end to end — from API design to pixel-perfect UI.
+<p align="center"> <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saizayarhtet7&theme=react" alt="saizayarhtet7" /> </p>
 
+- 🧰 I work daily with **Flutter, Express.js, and React**
+
+- 💬 Ask me about **Flutter, scalable app architecture, and clean UI/UX**
+
+- 👯 I'm looking to collaborate on **Full-Stack / Flutter projects**
+
+- 👨‍💻 All of my projects are available at [https://zayar-tech.web.app](https://zayar-tech.web.app)
+
+- 📝 I share insights and dev experiences on **[medium.com/@saizayarhtet7](https://medium.com/@saizayarhtet7)**
 
 - 📫 How to reach me **saizayarhtet7@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- ⚡ Fun fact **Building performant apps from end to end — that's what gets me going!**
+
+<br/>
+
+<h3 align="left">Tech Stack</h3>
+
 <p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saizayarhtet7&show_icons=true&locale=en&layout=compact" alt="saizayarhtet7" /></p>
+<h3 align="left">Reach me on</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/sai-zayar-htet-b2a625241/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /> </a>
+<a href="https://medium.com/@saizayarhtet7" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /> </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saizayarhtet7&show_icons=true&locale=en" alt="saizayarhtet7" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saizayarhtet7&" alt="saizayarhtet7" /></p>
+<h3 align="left">📊 Contribution Activity</h3>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=saizayarhtet7&theme=react-dark&hide_border=true&area=true" alt="saizayarhtet7 activity graph" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:61dafb&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=61dafb&animation=fadeIn" />
+</p>
